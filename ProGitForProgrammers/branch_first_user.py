@@ -1,4 +1,5 @@
 def func_3():
-    message = 'The branch created by Sam'
+    message = 'The branch created'
     date = '2023/01/07'
-    return f'{message} on {date}'
+    author = 'Sam'
+    return f'{message} by {author} on {date}'
