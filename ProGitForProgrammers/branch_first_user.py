@@ -1,3 +1,4 @@
 def func_3():
     message = 'The branch created by Sam'
-    return message
+    date = '2023/01/07'
+    return f'{message} on {date}'
